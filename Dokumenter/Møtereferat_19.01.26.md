@@ -1,0 +1,10 @@
+Sett på hverandres forslag. Går for wireframe til Malin og styletile til Mats.
+
+
+forside -header og footer   -- Øystein
+booking - finn rom (link til anmeldelser)  --Nasra
+innlogging - historikk - opprette ny profil - --Malin
+anmeldelser - lese og opprette anmeldelser, søkefunksjon(kjekt å ha hvis vi får tid)  --Mats
+
+Jobbe på hver vår side fram til neste møte. Ser for oss at vi bruker ca 2 uker på designet slik at vi har litt 
+tid til overs for å finpusse på produktet.
